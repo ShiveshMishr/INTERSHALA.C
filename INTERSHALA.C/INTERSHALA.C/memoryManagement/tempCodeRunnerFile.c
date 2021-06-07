@@ -1,0 +1,1 @@
+ printf("The sum is %.2f", sum);
